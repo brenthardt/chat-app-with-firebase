@@ -1,9 +1,9 @@
 REPLACE THESE: <br/>
 
-  apiKey: "YOUR API KEY",
-    authDomain: "YOUR FIREBASE DOMAIN",
-    projectId: "ID",
-    storageBucket: "STORAGE ID",
-    messagingSenderId: "ID",
-    appId: "APP ID",
+  apiKey: "YOUR API KEY",<br/>
+    authDomain: "YOUR FIREBASE DOMAIN",<br/>
+    projectId: "ID",<br/>
+    storageBucket: "STORAGE ID",<br/>
+    messagingSenderId: "ID",<br/>
+    appId: "APP ID",<br/>
     measurementId: "ID",
